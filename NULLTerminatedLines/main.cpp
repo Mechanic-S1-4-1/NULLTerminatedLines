@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include <Windows.h> // для того чтоб компилятор понимал русский язык строки
+#include <Windows.h> //для того чтоб компилятор понимал русский язык строки
 
 using namespace std;
 
